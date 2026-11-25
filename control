@@ -1,0 +1,9 @@
+Package: com.nounsupported.tweak
+Name: NoUnsupported
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Description: SupportTheUnsupported-style fix for "unsupported" charging cables (SpringBoard, rootless)
+Maintainer: you
+Author: you
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 15.0)
